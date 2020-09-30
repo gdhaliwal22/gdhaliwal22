@@ -1,8 +1,9 @@
 ### Hi there, I'm Gurpreet - aka [gdhaliwal22](https://www.linkedin.com/in/gdhaliwaldev/) 👋
 
-## I'm a full stack engineer, hobby game dev and Linux enthusiast!
+## I'm a full stack engineer and a former logistics manager who enjoys finding solutions to real world problems!
 
-- I'm looking to learn more about Web Development
+- I'm currently learning GraphQL and Python
+- 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
