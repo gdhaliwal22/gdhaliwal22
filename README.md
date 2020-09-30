@@ -32,4 +32,4 @@
 
 ---
 
-[![gdhaliwal22's github stats](https://github-readme-stats.vercel.app/api?username=gdhaliwal22&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghaliwal22&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![gdhaliwal22's github stats](https://github-readme-stats.vercel.app/api?username=gdhaliwal22&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdhaliwal22&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
