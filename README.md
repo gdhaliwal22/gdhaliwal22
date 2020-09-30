@@ -1,4 +1,4 @@
-### Hi there, I'm Jeremy - aka [Nicocchi](https://jeremy-boggs.com/) 👋
+### Hi there, I'm Jeremy - aka [Nicocchi](https://www.linkedin.com/in/gdhaliwaldev/) 👋
 
 ## I'm a full stack engineer, hobby game dev and Linux enthusiast!
 
@@ -6,8 +6,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="jeremy-boggs.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://jeremy-boggs.com/)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jeremy-boggs-b5861b181/)
+[<img align="left" alt="jeremy-boggs.com" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/gdhaliwal22)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/gdhaliwaldev/)
 
 <br />
 
