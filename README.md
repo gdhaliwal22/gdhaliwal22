@@ -1,4 +1,4 @@
-### Hi there, I'm Jeremy - aka [Nicocchi](https://www.linkedin.com/in/gdhaliwaldev/) 👋
+### Hi there, I'm Gurpreet - aka [gdhaliwal22](https://www.linkedin.com/in/gdhaliwaldev/) 👋
 
 ## I'm a full stack engineer, hobby game dev and Linux enthusiast!
 
